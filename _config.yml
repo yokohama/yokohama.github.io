@@ -30,8 +30,7 @@ twitter_username: yokoham79911370
 github_username:  yokohama
 
 # Build settings
-# theme: minima
-theme: jekyll-theme-dinky
+theme: minima
 
 plugins:
   - jekyll-feed
